@@ -1,0 +1,35 @@
+h3 {
+  font-family: 'Prompt', sans-serif;
+  color: Black;
+}
+p {
+  font-family: 'Trirong', serif;
+  color: Black;
+}
+h1 {
+font-family: 'Prompt', sans-serif;
+ color: Black;
+}
+.mynav {
+background-color: #FFADDA;
+font color:black;
+font-size: 20px;
+}
+.myblue {
+background-color : #ECF6FF;
+}
+.myyellow {
+background-color : #FFFCEC;
+}
+.mypurple {
+background-color : #F9ECFF;
+}
+.myred {
+background-color : #FFECEC;
+}
+nav {
+font-family: "Kanit", Cadson Demak, Regular;
+}
+.circle {
+  border-radius: 100%;
+}
