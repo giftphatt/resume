@@ -3,7 +3,7 @@ h3 {
   color: Black;
 }
 p {
-  font-family: 'Trirong', serif;
+ font-family: 'Sarabun', sans-serif;
   color: Black;
 }
 h1 {
@@ -27,8 +27,9 @@ background-color : #F9ECFF;
 .myred {
 background-color : #FFECEC;
 }
-nav {
-font-family: "Kanit", Cadson Demak, Regular;
+.mynav {
+font-family: 'Sarabun', sans-serif;
+background-color : #F0B5D2;
 }
 .circle {
   border-radius: 100%;
