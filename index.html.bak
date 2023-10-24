@@ -4,10 +4,8 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
-
-      rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+      rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
       crossorigin="anonymous">
     <link type="text/css" rel="stylesheet" href="style.css">
     <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Prompt:wght@500&amp;family=Sarabun&amp;display=swap">
@@ -16,16 +14,13 @@
     <div class="row sticky-top"> <br>
       <nav class="navbar navbar-expand-lg bg-body-tertiary mynav">
         <div class="container-fluid">&nbsp; <a class="navbar-brand" href="#profile">
-            หน้าแรก </a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-
-            data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
-
+            หน้าแรก </a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+            data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
             aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
-              <li class="nav-item"> <a class="nav-link active" aria-current="page"
-
+              <li class="nav-item"> <a class="nav-link active" aria-current="page"
                   href="#%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5">
                   ข้อมูล </a> </li>
               <li class="nav-item"> <a class="nav-link" href="#%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1">
@@ -40,8 +35,7 @@
     <div class="container"><br>
       <div id="profile" class="row">
         <div class="col-md-12"> <br>
-          <img src="images/profile.jpg" class="rounded-circle mx-auto d-block" alt="..."
-
+          <img src="images/profile.jpg" class="rounded-circle mx-auto d-block" alt="..."
             width="300px"> </div>
       </div>
       <div class="row">
@@ -96,28 +90,24 @@
           <br>
           <p> ทักษะภาษา </p>
           <p> ภาษาอังกฤษ </p>
-          <div class="progress" role="progressbar" aria-label="Example with label"
-
+          <div class="progress" role="progressbar" aria-label="Example with label"
             aria-valuenow="10" aria-valuemin="0" aria-valuemax="10">
             <div class="progress-bar" style="width: 60%">60%</div>
           </div>
           <p> ภาษาเกาหลี </p>
-          <div class="progress" role="progressbar" aria-label="Example with label"
-
+          <div class="progress" role="progressbar" aria-label="Example with label"
             aria-valuenow="10" aria-valuemin="0" aria-valuemax="10">
             <div class="progress-bar" style="width: 40%">40%</div>
           </div>
           <br>
           <p> ทักษะคอมพิวเตอร์ </p>
           <p> Power Point </p>
-          <div class="progress" role="progressbar" aria-label="Example with label"
-
+          <div class="progress" role="progressbar" aria-label="Example with label"
             aria-valuenow="10" aria-valuemin="0" aria-valuemax="10">
             <div class="progress-bar" style="width: 90%">90%</div>
           </div>
           <p> Photoshop </p>
-          <div class="progress" role="progressbar" aria-label="Example with label"
-
+          <div class="progress" role="progressbar" aria-label="Example with label"
             aria-valuenow="10" aria-valuemin="0" aria-valuemax="10">
             <div class="progress-bar" style="width: 80%">80%</div>
             <br>
@@ -128,49 +118,77 @@
       <div id="ภาพกิจกรรม" class="row"><br>
         <nav class="navbar navbar-expand-lg bg-body-tertiary mynav">
           <div class="container-md"> <a class="navbar-brand" href="#%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1">
-            ภาพกิจกรรม</a> </div>
+              ภาพกิจกรรม</a> </div>
         </nav>
       </div>
       <br>
       <div id="ภาพกิจกรรม" class="row">
         <div id="carouselExampleIndicators" class="carousel slide">
-          <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
-
+          <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
               data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
-
-              aria-label="Slide 2"></button> <button type="button" data-bs-target="#carouselExampleIndicators"
-
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+              aria-label="Slide 2"></button> <button type="button" data-bs-target="#carouselExampleIndicators"
               data-bs-slide-to="2" aria-label="Slide 3"></button> </div>
           <div class="carousel-inner">
-            <div class="carousel-item active"> <img src="images/activitie.jpg"
-
+            <div class="carousel-item active"> <img src="images/activitie.jpg"
                 class="d-block w-100" alt="..."> </div>
-            <div class="carousel-item"> <img src="images/activi.jpg" class="d-block w-100"
-
+            <div class="carousel-item"> <img src="images/activi.jpg" class="d-block w-100"
                 alt="..."> </div>
-            <div class="carousel-item"> <img src="images/concert.jpg" class="d-block w-100"
-
+            <div class="carousel-item"> <img src="images/concert.jpg" class="d-block w-100"
                 alt="concert"> </div>
           </div>
-          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
-
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
             data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span> </button> <button class="carousel-control-next"
-
+            <span class="visually-hidden">Previous</span> </button> <button class="carousel-control-next"
             type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span> </button> </div>
       </div>
-      <br>
-      <div id="ติดต่อ" class="row">
-        <p><img src="images/contact.jpg" class="img-fluid" alt="contact"></p>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+      <div id="ติดต่อ" class="row mypink"><br>
+        <h3 class="text-center"> ช่องทางการติดต่อ</h3>
+        <p><br>
+        </p>
       </div>
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-
-integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-
+      <div class="row mypink"><br>
+        <div class="row">
+          <div class="col-md-6"><img src="images/profile.jpg" class="rounded-circle mx-auto d-block"
+              alt="profile" width="230px"></div>
+          <div class="col-md-6"> เบอร์ต่อต่อ 0827847368 <br>
+            <p><br>
+            </p>
+            Email phattarapoen8218@gmail.com<br>
+            <p><br>
+            </p>
+            ที่อยู่ หอพักกินนอน 2 ซอยทรงพล 3 ต.สนามจันทร์ อ.เมือง จ.นครปฐม <br>
+            <p><br>
+            </p>
+            <button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">
+              Membership</button>
+            <div class="modal" id="exampleModal" tabindex="-1">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModal"> Warning </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"
+                      aria-label="Close"></button> </div>
+                  <div class="modal-body">
+                    <p> เป็นข้อมูลปี 2566 </p>
+                  </div>
+                  <div class="modal-footer"> <button type="button" class="btn btn-secondary"
+                      data-bs-dismiss="modal">Close</button> <button type="button"
+                      class="btn btn-primary">Save changes</button> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 crossorigin="anonymous"></script> </div>
-    
   </body>
 </html>
