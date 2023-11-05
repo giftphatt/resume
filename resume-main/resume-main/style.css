@@ -1,0 +1,39 @@
+h3 {
+  font-family: 'Prompt', sans-serif;
+  color: Black;
+}
+p {
+ font-family: 'Sarabun', sans-serif;
+  color: Black;
+}
+h1 {
+font-family: 'Prompt', sans-serif;
+ color: Black;
+}
+.mynav {
+background-color: #FFADDA;
+font color:black;
+font-size: 20px;
+}
+.myblue {
+background-color : #ECF6FF;
+}
+.myyellow {
+background-color : #FFFCEC;
+}
+.mypurple {
+background-color : #F9ECFF;
+}
+.myred {
+background-color : #FFECEC;
+}
+.mynav {
+font-family: 'Sarabun', sans-serif;
+background-color : #F0B5D2;
+}
+.mypink {
+background-color : #FFEBF7;
+}
+.circle {
+  border-radius: 100%;
+}
